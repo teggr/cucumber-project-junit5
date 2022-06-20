@@ -12,6 +12,6 @@ A skeleton Spring Boot project that can be used as a seed for new projects to fu
    git remote add seed https://github.com/teggr/spring-boot-seed.git
    ```
 4. Update your fork
-   `git pull seed master`
+   `git pull seed main`
 5. Push
    `git push origin master`
